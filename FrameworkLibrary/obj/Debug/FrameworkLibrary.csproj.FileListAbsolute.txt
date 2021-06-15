@@ -1,0 +1,6 @@
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\obj\Debug\FrameworkLibrary.csprojAssemblyReference.cache
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\li\source\repos\FrameworkLibrary\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb
